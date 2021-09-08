@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on linkedIn, discord
 - 🤔 I’m looking for help with backend development
 - 💬 Ask me about tech related stuff
-- ⚡ Fun fact: Stackoverflow is OP:)
+- ⚡ Fun fact: Stackoverflow is OP :)
