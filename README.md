@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my own project
+- 🔭 I’m currently working on my business project
 - 🌱 I’m currently learning Object Detection
 - 👯 I’m looking to collaborate on Discord, Slack
 - 🤔 I’m looking for help with backend development
