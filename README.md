@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with backend development
 - 💬 Ask me about tech related stuff
 - :email: Contact me on discord: Ilyass#5323
-- ⚡ Fun fact: Without Stackoverflow coders would be doomed 
+- ⚡ Fun fact: Without Stackoverflow coders would be doomed :)
